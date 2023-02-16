@@ -8,3 +8,5 @@ But anyway, augmentation funcitons have been developed and with a little modific
 ## Segmentation
 I cannot share any of successful models due to the agreement with previous employer, but the code and archtecture is here. The architecture is a little bit messy, because I was constantly checking, how such factors as amount of layers and levels of U-Net were affecting the resulting models.
 Some of them were quite successful, but was not implemented due to political situation and financing issues.
+
+In mask.ipynb some grafical results left and a simple example of masking an audio
